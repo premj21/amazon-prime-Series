@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amazon-prime-Series/static/css/main.82178513.css",
+    "main.js": "/amazon-prime-Series/static/js/main.4f2991ff.js",
+    "index.html": "/amazon-prime-Series/index.html",
+    "main.82178513.css.map": "/amazon-prime-Series/static/css/main.82178513.css.map",
+    "main.4f2991ff.js.map": "/amazon-prime-Series/static/js/main.4f2991ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82178513.css",
+    "static/js/main.4f2991ff.js"
+  ]
+}
